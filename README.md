@@ -1,8 +1,8 @@
 # UTS Pemrograman Web: Book Library
 
-Ini adalah project UTS untuk mata kuliah Pemrograman Web (UTS-PEMWEB-123140176), membuat aplikasi pencarian buku menggunakan React dan Open Library API.
+Ini adalah project UTS untuk mata kuliah Pengemabngan Aplikasi Web, membuat aplikasi pencarian buku menggunakan React dan Open Library API.
 
-- **Nama:** [NAMA LENGKAP ANDA]
+- **Nama:** RIYAN SANDI PRAYOGA
 - **NIM:** 123140176
 
 ---
