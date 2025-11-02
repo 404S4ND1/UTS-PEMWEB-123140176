@@ -1,16 +1,34 @@
-# React + Vite
+# UTS Pemrograman Web: Book Library
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ini adalah project UTS untuk mata kuliah Pemrograman Web (UTS-PEMWEB-123140176), membuat aplikasi pencarian buku menggunakan React dan Open Library API.
 
-Currently, two official plugins are available:
+- **Nama:** [NAMA LENGKAP ANDA]
+- **NIM:** 123140176
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Link Deployment Vercel
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Aplikasi ini telah di-deploy dan dapat diakses melalui link berikut:
 
-## Expanding the ESLint configuration
+**[https://uts-pemweb-123140176.vercel.app](https://uts-pemweb-123140176.vercel.app)**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+*(Ganti link di atas dengan URL Vercel Anda yang sebenarnya setelah Anda selesai deploy)*
+
+---
+
+## Fitur
+
+- Pencarian buku berdasarkan Judul atau Penulis.
+- Menampilkan hasil dalam tabel (Cover, Judul, Penulis, Tahun Terbit).
+- Melihat detail buku (Deskripsi, Subjek).
+- Fitur "Reading List" yang disimpan di LocalStorage.
+- Filter hasil pencarian berdasarkan Subjek.
+- Tema Gelap / Terang (Dark Mode).
+- Desain Responsif untuk Mobile.
+
+## Cara Instalasi Lokal
+1.  Clone repository: `git clone https://github.com/404S4ND1/UTS-PEMWEB-123140176.git`
+2.  Masuk ke folder: `cd UTS-PEMWEB-123140176`
+3.  Install dependensi: `npm install`
+4.  Jalankan aplikasi: `npm run dev`
