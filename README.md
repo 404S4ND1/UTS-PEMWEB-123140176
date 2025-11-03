@@ -98,12 +98,14 @@ UTS-PEMWEB-123140176/
 
 ## 📷 Screenshot Aplikasi
 
-> *(Tambahkan gambar setelah di-screenshot dari browser)*
-> Contoh:
->
 > ![Tampilan Home](3,png)
+> *Deskripsi: Menunjukkan Home*
+
 > ![Tampilan Dark Mode](2.png)
+>  *Deskripsi: Menunjukkan Tmpilan dark mode.*
+
 > ![Tampilan Detail Buku](1.png)
+>  *Deskripsi: Menunjukkan fitur detail buku.*
 
 ---
 
