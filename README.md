@@ -1,6 +1,11 @@
+![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react)
+![Vite](https://img.shields.io/badge/Vite-5.0-purple?logo=vite)
+![Vercel](https://img.shields.io/badge/Deployed-Vercel-black?logo=vercel)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # 📚 UTS Pemrograman Web — Book Library App
 
-Aplikasi ini merupakan tugas **UTS Pemrograman Web** yang dikembangkan menggunakan **React + Vite** dan **Open Library API**.
+Aplikasi ini merupakan tugas **UTS Pemrograman Web** yang dikembangkan menggunakan **React + Vite** dan **Open Library API**.  
 Aplikasi berfungsi untuk **mencari buku, melihat detail, dan menyimpan daftar bacaan (Reading List)** secara lokal.
 
 ---
@@ -25,13 +30,14 @@ Aplikasi dapat diakses secara online melalui link berikut:
 
 ## ✨ Fitur Utama
 
-✅ **Pencarian Buku** — Berdasarkan **judul** atau **penulis**.
-✅ **Hasil Pencarian Interaktif** — Menampilkan *cover*, *judul*, *penulis*, dan *tahun terbit*.
-✅ **Detail Buku** — Menampilkan *deskripsi* dan *subjek buku*.
-✅ **Reading List (LocalStorage)** — Menyimpan buku favorit secara lokal tanpa login.
-✅ **Filter Berdasarkan Subjek** — Menyaring hasil agar lebih relevan.
-✅ **Tema Gelap & Terang (Dark Mode Toggle)**.
-✅ **Desain Responsif** — Optimal di layar desktop dan mobile.
+✅ **Pencarian Buku** — Berdasarkan **judul** atau **penulis**.  
+✅ **Hasil Pencarian Interaktif** — Menampilkan *cover*, *judul*, *penulis*, dan *tahun terbit*.  
+✅ **Detail Buku** — Menampilkan *deskripsi* dan *subjek buku*.  
+✅ **Reading List (LocalStorage)** — Menyimpan buku favorit secara lokal tanpa login.  
+✅ **Filter Berdasarkan Subjek** — Menyaring hasil agar lebih relevan.  
+✅ **Tema Gelap & Terang (Dark Mode Toggle)**.  
+✅ **Desain Responsif** — Optimal di layar desktop dan mobile.  
+✅ **API Integration** — Menggunakan [Open Library API](https://openlibrary.org/developers/api).
 
 ---
 
@@ -54,29 +60,26 @@ Aplikasi dapat diakses secara online melalui link berikut:
 
    ```bash
    git clone https://github.com/404S4ND1/UTS-PEMWEB-123140176.git
-   ```
-2. Masuk ke folder project:
+Masuk ke folder project:
 
-   ```bash
-   cd UTS-PEMWEB-123140176
-   ```
-3. Install semua dependensi:
+bash
+Copy code
+cd UTS-PEMWEB-123140176
+Install semua dependensi:
 
-   ```bash
-   npm install
-   ```
-4. Jalankan aplikasi di mode development:
+bash
+Copy code
+npm install
+Jalankan aplikasi di mode development:
 
-   ```bash
-   npm run dev
-   ```
-5. Buka di browser: [http://localhost:5173](http://localhost:5173)
+bash
+Copy code
+npm run dev
+Buka di browser: http://localhost:5173
 
----
-
-## 🧹 Struktur Folder
-
-```
+🧹 Struktur Folder
+arduino
+Copy code
 UTS-PEMWEB-123140176/
 │
 ├── src/
@@ -92,59 +95,44 @@ UTS-PEMWEB-123140176/
 ├── package.json
 ├── vite.config.js
 └── README.md
-```
+📷 Screenshot Aplikasi
 
----
+Deskripsi: Menunjukkan tampilan halaman Home.
 
-## 📷 Screenshot Aplikasi
 
-> ![Tampilan Home](3,png)
-> *Deskripsi: Menunjukkan Home*
+Deskripsi: Menunjukkan tampilan mode gelap.
 
-> ![Tampilan Dark Mode](2.png)
->  *Deskripsi: Menunjukkan Tmpilan dark mode.*
 
-> ![Tampilan Detail Buku](1.png)
->  *Deskripsi: Menunjukkan fitur detail buku.*
+Deskripsi: Menunjukkan fitur detail buku.
 
----
+📊 Commit History (Progress)
+Project ini dikembangkan secara bertahap dengan minimal 10 commit bermakna, seperti:
 
-## 📊 Commit History (Progress)
+add: fitur pencarian buku
 
-Project ini dikembangkan secara bertahap dengan minimal **10 commit bermakna**, seperti:
+fix: validasi input kosong
 
-* `add: fitur pencarian buku`
-* `fix: validasi input kosong`
-* `update: mode gelap/terang`
-* `deploy: konfigurasi vercel.json`
+update: mode gelap/terang
 
----
+deploy: konfigurasi vercel.json
 
-## 💬 Catatan Tambahan
+💬 Catatan Tambahan
+Aplikasi tidak menggunakan API key (karena Open Library API bersifat publik).
 
-* Aplikasi tidak menggunakan **API key** (karena Open Library API bersifat publik).
-* Semua data bersifat sementara dan disimpan di **LocalStorage**.
-* Jika ingin menambahkan fitur lanjutan seperti pagination atau favorit berbasis akun, gunakan backend API tambahan.
+Semua data bersifat sementara dan disimpan di LocalStorage.
 
----
+Jika ingin menambahkan fitur lanjutan seperti pagination atau favorit berbasis akun, gunakan backend API tambahan.
 
-## 🧑‍💻 Teknologi yang Digunakan
+🧑‍💻 Teknologi yang Digunakan
+Kategori	Teknologi
+Framework Frontend	React + Vite
+Styling	CSS Modules / TailwindCSS
+API	Open Library API
+Deployment	Vercel
+Penyimpanan Lokal	LocalStorage
 
-| Kategori           | Teknologi                 |
-| ------------------ | ------------------------- |
-| Framework Frontend | React + Vite              |
-| Styling            | CSS Modules / TailwindCSS |
-| API                | Open Library API          |
-| Deployment         | Vercel                    |
-| Penyimpanan Lokal  | LocalStorage              |
+📌 Lisensi
+Project ini bersifat open-source untuk keperluan pembelajaran.
 
----
-
-### 📌 Lisensi
-
-Project ini bersifat **open-source** untuk keperluan pembelajaran.
-
----
-
-## 👨‍💻 Author
-> **Riyan Sandi Prayoga (123140176)** 💡
+👨‍💻 Author
+Riyan Sandi Prayoga (123140176) 💡
