@@ -77,7 +77,9 @@ Copy code
 npm run dev
 Buka di browser: http://localhost:5173
 
-🧹 Struktur Folder
+---
+
+##🧹 Struktur Folder
 arduino
 Copy code
 UTS-PEMWEB-123140176/
@@ -95,7 +97,10 @@ UTS-PEMWEB-123140176/
 ├── package.json
 ├── vite.config.js
 └── README.md
-📷 Screenshot Aplikasi
+
+---
+
+## 📷 Screenshot Aplikasi
 
 Deskripsi: Menunjukkan tampilan halaman Home.
 
@@ -106,6 +111,7 @@ Deskripsi: Menunjukkan tampilan mode gelap.
 Deskripsi: Menunjukkan fitur detail buku.
 
 📊 Commit History (Progress)
+
 Project ini dikembangkan secara bertahap dengan minimal 10 commit bermakna, seperti:
 
 add: fitur pencarian buku
@@ -117,6 +123,7 @@ update: mode gelap/terang
 deploy: konfigurasi vercel.json
 
 💬 Catatan Tambahan
+
 Aplikasi tidak menggunakan API key (karena Open Library API bersifat publik).
 
 Semua data bersifat sementara dan disimpan di LocalStorage.
@@ -130,9 +137,9 @@ Styling	CSS Modules / TailwindCSS
 API	Open Library API
 Deployment	Vercel
 Penyimpanan Lokal	LocalStorage
-
 📌 Lisensi
+
 Project ini bersifat open-source untuk keperluan pembelajaran.
 
-👨‍💻 Author
+🚀 Dikembangkan dengan semangat belajar dan eksplorasi oleh
 Riyan Sandi Prayoga (123140176) 💡
