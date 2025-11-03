@@ -29,13 +29,13 @@ Aplikasi dapat diakses secara online melalui link berikut:
 
 ## ✨ Fitur Utama
 
-✅ **Pencarian Buku** — Berdasarkan **judul** atau **penulis**.
-✅ **Hasil Pencarian Interaktif** — Menampilkan *cover*, *judul*, *penulis*, dan *tahun terbit*.
-✅ **Detail Buku** — Menampilkan *deskripsi* dan *subjek buku*.
-✅ **Reading List (LocalStorage)** — Menyimpan buku favorit secara lokal tanpa login.
-✅ **Filter Berdasarkan Subjek** — Menyaring hasil agar lebih relevan.
-✅ **Tema Gelap & Terang (Dark Mode Toggle)**.
-✅ **Desain Responsif** — Optimal di layar desktop dan mobile.
+> ✅ **Pencarian Buku** — Berdasarkan **judul** atau **penulis**.
+> ✅ **Hasil Pencarian Interaktif** — Menampilkan *cover*, *judul*, *penulis*, dan *tahun terbit*.
+> ✅ **Detail Buku** — Menampilkan *deskripsi* dan *subjek buku*.
+> ✅ **Reading List (LocalStorage)** — Menyimpan buku favorit secara lokal tanpa login.
+> ✅ **Filter Berdasarkan Subjek** — Menyaring hasil agar lebih relevan.
+> ✅ **Tema Gelap & Terang (Dark Mode Toggle)**.
+> ✅ **Desain Responsif** — Optimal di layar desktop dan mobile.
 
 ---
 
