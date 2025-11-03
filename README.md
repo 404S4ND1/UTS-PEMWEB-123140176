@@ -101,9 +101,9 @@ UTS-PEMWEB-123140176/
 > *(Tambahkan gambar setelah di-screenshot dari browser)*
 > Contoh:
 >
-> ![Tampilan Home](./public/screenshot-home.png)
-> ![Tampilan Dark Mode](./public/screenshot-darkmode.png)
-> ![Tampilan Detail Buku](./public/screenshot-detail.png)
+> ![Tampilan Home](3,png)
+> ![Tampilan Dark Mode](2.png)
+> ![Tampilan Detail Buku](1.png)
 
 ---
 
