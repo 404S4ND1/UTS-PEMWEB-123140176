@@ -146,5 +146,5 @@ Project ini bersifat **open-source** untuk keperluan pembelajaran.
 
 ---
 
-> 🚀 *Dikembangkan dengan semangat belajar dan eksplorasi oleh*
+## 👨‍💻 Author
 > **Riyan Sandi Prayoga (123140176)** 💡
