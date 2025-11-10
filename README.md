@@ -82,25 +82,6 @@ Aplikasi dapat diakses secara online melalui link berikut:
 
 ---
 
-## 🧹 Struktur Folder
-
-```
-UTS-PEMWEB-123140176/
-│
-├── src/
-│   ├── components/
-│   │   ├── SearchBar.jsx
-│   │   ├── BookList.jsx
-│   │   ├── BookDetail.jsx
-│   │   └── ReadingList.jsx
-│   ├── App.jsx
-│   └── main.jsx
-│
-├── public/
-├── package.json
-├── vite.config.js
-└── README.md
-```
 
 ---
 
